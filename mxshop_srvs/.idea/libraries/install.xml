@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="install">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/order_srv/install.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
